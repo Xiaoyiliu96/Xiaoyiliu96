@@ -61,7 +61,6 @@ Welcome to my GitHub! I'm a data-driven, design-savvy professional with a divers
 ## 📚 Certifications
 
 - **Microsoft Office Specialist: Excel Associate (2019)**  
-  Credential ID: 995847681  
 - **Beida Jade Bird Web Design Engineer**  
 - **Senior Web Design Engineer (Beida Jade Bird)**
 
