@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a data-driven, design-savvy professional with a divers
 - Track attendance, services, and participation for hundreds of students  
 - Re-hired due to exceptional performance as a prior Data Specialist  
 
-### 🔹 IT Business Analyst (Intern)  
+### 🔹 IT Business Analyst  
 **PS Business Solutions**  
 - Designed responsive websites using GoDaddy, HTML/CSS/JavaScript  
 - Provided technical support, cross-browser testing, and mobile optimization  
