@@ -17,23 +17,23 @@ Welcome to my GitHub! I'm a data-driven, design-savvy professional with a divers
 ## 💼 Experience Highlights
 
 ### 🔹 Data Manager  
-**Liberty Partnerships Program, CCNY** — *Jan 2025 – Present*  
+**Liberty Partnerships Program, CCNY** 
 - Maintain and update confidential student data using Excel, Google Sheets & Access  
 - Track attendance, services, and participation for hundreds of students  
 - Re-hired due to exceptional performance as a prior Data Specialist  
 
 ### 🔹 IT Business Analyst (Intern)  
-**PS Business Solutions** — *Dec 2024 – Present*  
+**PS Business Solutions**  
 - Designed responsive websites using GoDaddy, HTML/CSS/JavaScript  
 - Provided technical support, cross-browser testing, and mobile optimization  
 
 ### 🔹 Data Analyst (Intern)  
-**Maimonides Cancer Center** — *Feb 2024 – Mar 2024*  
+**Maimonides Cancer Center**   
 - Used SQL Server and MOSAIQ to visualize clinical data trends  
 - Supported IT issues and maintained documentation with JIRA  
 
 ### 🔹 Graphic Design Assistant  
-**HY N Ship Printing** — *2019 – Oct 2024*  
+**HY N Ship Printing**  
 - Assisted in client meetings and executed design revisions  
 - Skilled in Adobe Photoshop, Illustrator, InDesign, CorelDRAW  
 
