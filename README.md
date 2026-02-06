@@ -37,7 +37,8 @@ Welcome to my GitHub! I'm a data-driven, design-savvy professional with a divers
 - Assisted in client meetings and executed design revisions  
 - Skilled in Adobe Photoshop, Illustrator, InDesign, CorelDRAW  
 
-
+### 🔹 Web Designer
+**Taobao**  
 ---
 
 ## 🛠️ Skills
