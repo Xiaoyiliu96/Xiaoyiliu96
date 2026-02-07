@@ -68,20 +68,6 @@ Welcome to my GitHub! I'm a data-driven, design-savvy professional with a divers
 
 ---
 
-## 📂 Projects
-
-Here are a few things I'm working on or have contributed to:
-
-- **Student Data Dashboard (Access + Excel)**  
-  Streamlined weekly reporting for over 100+ student profiles.
-
-- **Responsive Portfolio Website (GoDaddy + JS)**  
-  Developed a modern portfolio with device-friendly design.
-
-- **Cancer Center Data Insights Project**  
-  Created charts and reports to visualize oncology care trends.
-
----
 
 ## 📫 Get in Touch
 
