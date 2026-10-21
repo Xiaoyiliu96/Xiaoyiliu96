@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a data-driven, design-savvy professional with a divers
 - Used SQL Server and MOSAIQ to visualize clinical data trends  
 - Supported IT issues and maintained documentation with JIRA  
 
-### 🔹 Graphic Design Assistant  
+### 🔹 Graphic Designer
 **HY N Ship Printing**  
 - Assisted in client meetings and executed design revisions  
 - Skilled in Adobe Photoshop, Illustrator, InDesign, CorelDRAW  
